@@ -1,0 +1,131 @@
+section.kv
+    .container
+        .jumbotron
+            .row.justify-content-md-center.my-4
+                .col-lg-6
+                    h1.text-center.text-primary Your identity on Ethereum
+                    p.text-center ENS.bid offers a secure and decentralised way to address resources both on and off the blockchain using simple, human-readable names. 
+            .row.justify-content-md-center.my-4
+                .col-lg-6.input-group.input-group-lg.search
+                    input.form-control(type='text', aria-label='Amount (to the nearest dollar)')
+                    //- span.input-group-addon .eth
+            .row.justify-content-center.my-4
+                .my-1
+                    a.btn.btn-primary.btn-md(href='#', role='button') Search
+
+section.works
+    .container
+        .row.justify-content-md-center
+            .col-md-8.my-4
+                h1.text-center.text-primary.my-4 Best ENS trading market.
+                H4.text-center ENS offers a secure and decentralised way to address resources both on and off the blockchain using simple, human-readable names.
+    .container
+        hr.my-4.clearfix    
+        .row.justify-content-center
+            .col-xl-4.col-lg-5.col-sm-12.my-2
+                .card
+                    img.card-img-top(src='./img/work1.svg', alt='Card image cap')
+                    .card-body
+                        h4.card-title Fully Support ENS Functions
+                        p.card-text
+                            | The current domain name transaction DApp support function is not comprehensive, can not meet the user's domain name trading needs, when the user wants to invest a domain name, he may use a DApp to register the domain name, and then another DApp domain name transaction or transfer, in order to solve this problem, we integrate all the features include: opening, bidding, marking, closing, setting domain name, domain name transfer, providing full ENS function.
+
+            .col-xl-4.col-lg-5.col-sm-12.my-2
+                .card
+                    img.card-img-top(src='./img/work2.svg', alt='Card image cap')
+                    .card-body
+                        h4.card-title Support Offline Signature
+                        p.card-text
+                            | We solved the most important question of using DApp: trust, so that all users can feel comfortable using DApp and upload the private key, ENS.bid DApp will provide an offline signature version to ensure that each user's account is secure, allowing Send the transaction to a trusted Enode node by way of an offline signature.
+            .col-xl-4.col-lg-5.col-sm-12.my-2
+                .card
+                    img.card-img-top(src='./img/work3.svg', alt='Card image cap')
+                    .card-body
+                        h4.card-title Trading and Auction Platform
+                        p.card-text
+                            |  ENS.bid will provide an auction system listing all ENS domain names owned by the seller so that the buyer can select and bid, the time of the bid and the minimum bid price will be determined by the seller, the information between the buyers and sellers will have email reminder, the final bidder, the auction process through the site media co-operation, and the process of domain name transactions through the ENS.bid deployed in the tower chain chain performance guarantee contract to complete.
+            .col-xl-4.col-lg-5.col-sm-12.my-2
+                .card
+                    img.card-img-top(src='./img/work4.svg', alt='Card image cap')
+                    .card-body
+                        h4.card-title Smart Contract for Escrow Service
+                        p.card-text
+                            | ENS.bid through a smart contract to provide a decentralized escrow contract to help buyers and sellers through the contract transactions, you can completely avoid the buyers and sellers through the offline trading brought about by the risk, escrow contract code will open source and public for inspection.
+            .col-xl-4.col-lg-5.col-sm-12.my-2
+                .card
+                    img.card-img-top(src='./img/work5.svg', alt='Card image cap')
+                    .card-body
+                        h4.card-title Smart Contract for Loan Service
+                        p.card-text
+                            | ENS.bid special using smart contract to create a domain name loan model, all users can use the Ethereum domain name to borrow, just transfer the domain name to the loan contract, you can calculate the money can be borrowed, we provide the need for Ether uses the domain name as collateral to borrow, and is simple and fast.
+            .col-xl-4.col-lg-5.col-sm-12.my-2
+                .card
+                    img.card-img-top(src='./img/work6.svg', alt='Card image cap')
+                    .card-body
+                        h4.card-title Support Other Domain
+                        p.card-text
+                            | We provide .dapp or .dao and other domain names, so Ethereum domain name function is no longer a single.
+
+
+section.roadmap#roadmap
+    .container
+        hr.my-4
+        .row.justify-content-center
+            .col-md-6.text-center
+                h1 Roadmap
+        .row.justify-content-center
+            .col-md-8.col-sm-12
+                .timeline.text-center
+                    img(src="./img/timeline_eng.svg")
+
+
+section.chart.my-5
+    .container
+        .row.justify-content-center
+            .col-md-6.text-center
+                h3.my-4 ICO Token 分配
+                .piechart
+                    img(src="./img/chart1.svg")
+            .col-md-6.text-center
+                h3.my-4 ICO Fund Usage
+                .piechart
+                    img(src="./img/chart2.svg")
+section.ourteam.my-4#ourteam
+    .container
+        hr.my-4
+        .row.justify-content-center
+            .col.text-center
+                h1 Our Team
+        ul.row.justify-content-center.list-unstyled
+            li.col-md-5.p-5
+                ul.list-unstyled.text-center
+                    li.member-image.p-2
+                        img.member-photo.rounded-circle(src="./img/phrex.jpg")
+                    li.member-title.my-2
+                        h5 Phyrex Yung-Chieh, Tsai | CEO 
+                    li.member-des
+                        p.text-left Yung-Chieh, Tsai has 10 years software development experience, joined Migme in 2016 as a social media company leading in Southeast Asia, helping Migme development distributed architecture. 2017 issued the first ICO project in Taiwan named CryptoABS, is committed to using financial technology to improve the world. Specializes in decentralized systems, crypto currency, blockchain technology, smart contracts.
+            li.col-md-5.p-5
+                ul.list-unstyled.text-center
+                    li.member-image.p-2
+                        img.member-photo.rounded-circle(src="./img/lai.jpg")
+                    li.member-title.my-2
+                        h5 Yan-Long, Lai | CTO 
+                    li.member-des
+                        p.text-left Phd in Bioinformatic. Win 104 crowdfunding and bring team to Silicon Valley in LEADERG. Develop HA and high-throughput file system for NSRRC. In 2015, join in the biggest social platform Migme in southest Asia, refactor software infrastructure and develop new features on Migme that make MAU to 40m. Now, focus on distributed system and blockchain development. Make decentralization application more popular in the world.
+
+section.contact.my-4
+    .container
+        hr.my-4
+        .row.justify-content-center
+            .col.text-center
+                h1 Follow Us
+        .row.justify-content-center.my-5
+            .col-md-7
+                form#mc-embedded-subscribe-form.validate(action='//bid.us16.list-manage.com/subscribe/post?u=f92c729ea1fe57c53c847bc00&id=2eeedd2d5e', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='')
+                    .input-group
+                        input#mce-EMAIL.form-control.form-control-lg(type='email', value='', name='EMAIL', placeholder='email address', required='')
+                        div(style='position: absolute; left: -5000px;', aria-hidden='true')
+                            input(type='text', name='b_f92c729ea1fe57c53c847bc00_2eeedd2d5e', tabindex='-1', value='')
+                        span.input-group-btn
+                            input#mc-embedded-subscribe.btn.btn-primary.btn-lg(type='submit', value='SUBSCRIBE', name='SUBSCRIBE')

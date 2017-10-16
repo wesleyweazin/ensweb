@@ -1,0 +1,22 @@
+nav.navbar.navbar-expand-lg.navbar-dark.bg-primary
+    .container.align-items-center
+        a.navbar-brand(href='#')
+            img(src='./img/logo-w-inline.svg')
+        button.navbar-toggler(type='button', data-toggle='collapse', data-target='#cdf', aria-controls='navbarNavAltMarkup', aria-expanded='false', aria-label='Toggle navigation')
+            span.navbar-toggler-icon
+        #cdf.collapse.navbar-collapse
+            ul.navbar-nav.d-flex.justify-content-start
+                li.nav-item.active
+                    a.nav-link(href='#')
+                        | Home 
+                        span.sr-only (current)
+                li.nav-item
+                    a.nav-link(href='#roadmap') Roadmap
+                li.nav-item
+                    a.nav-link(href='#ourteam') Team
+                li.nav-item.dropdown
+                    a#abc.nav-link.dropdown-toggle(href='#', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+                        | ENG
+                    .dropdown-menu.dropdown-menu-right(aria-labelledby='abc')
+                        a.dropdown-item(href='./index_zh.html') 繁中
+

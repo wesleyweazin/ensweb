@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400px" height="520px" viewBox="0 0 400 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="4" r="4"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="14" height="14">
+            <rect x="9" y="-3" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="16" cy="4" r="4"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="14" height="14">
+            <rect x="9" y="-3" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <circle id="path-5" cx="16" cy="4" r="4"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="14" height="14">
+            <rect x="9" y="-3" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <circle id="path-7" cx="16" cy="4" r="4"></circle>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="14" height="14">
+            <rect x="9" y="-3" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <circle id="path-9" cx="16" cy="4" r="4"></circle>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="14" height="14">
+            <rect x="9" y="-3" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+        <circle id="path-11" cx="16" cy="4" r="4"></circle>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="14" height="14">
+            <rect x="9" y="-3" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-11" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="working" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3">
+            <g id="anchor" transform="translate(184.000000, 87.000000)">
+                <g id="Oval-2">
+                    <use fill="#7100D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#E1E2EC" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#7100D8" x="0" y="3" width="13" height="2"></rect>
+            </g>
+            <path d="M185,22.7241418 L198.806972,15.0068894 L198.821056,20.783817 L190.207543,25.5973586 L190.221627,31.4386625 L194.3048,29.1561267 L197.676734,31.0106164 L193.95857,33.0875998 L190.231016,35.172489 L190.231016,35.1758772 L185.036384,38.0784586 L185,22.7241418 Z M201.119088,15 L213.804037,21.9989482 L208.609405,24.9026591 L201.133172,20.7769276 L201.119088,15 Z M186.195728,40.0010518 L191.39036,37.0984704 L198.867767,41.2242018 L198.881851,47 L186.195728,40.0010518 Z M209.770158,26.8245745 L214.963616,23.9208637 L215,39.2763099 L201.194202,46.9935624 L201.180118,41.2166348 L209.792457,36.4030932 L209.778373,30.5606599 L205.696373,32.8431957 L202.343218,30.9785412 L209.770158,26.8279628 L209.770158,26.8245745 Z" id="Combined-Shape" fill="#7100D8"></path>
+            <polygon id="Rectangle" fill="#7100D8" points="199 58 201 58 201 502 199 502 199 225.065922"></polygon>
+            <path d="M205.107449,497 L207,498.760637 L200.735892,504.588128 C200.32947,504.966222 199.671764,504.96737 199.264108,504.588128 L193,498.760637 L194.892551,497 L200,501.751453 L205.107449,497 Z" id="Combined-Shape" fill="#7100D8"></path>
+            <text id="2017-/-Q3" font-family="DINNextRoundedLTPro-Light, DIN Next Rounded LT Pro" font-size="14" font-weight="300" line-spacing="16" fill="#828599">
+                <tspan x="117.662" y="92">2017 / Q3</tspan>
+            </text>
+            <text id="2018-/-Q3" font-family="DINNextRoundedLTPro-Light, DIN Next Rounded LT Pro" font-size="14" font-weight="300" line-spacing="16" fill="#828599">
+                <tspan x="117.662" y="384">2018 / Q3</tspan>
+            </text>
+            <text id="2018-/-Q1" font-family="DINNextRoundedLTPro-Light, DIN Next Rounded LT Pro" font-size="14" font-weight="300" line-spacing="16" fill="#828599">
+                <tspan x="117.662" y="228">2018 / Q1</tspan>
+            </text>
+            <text id="2017-/-Q4" font-family="DINNextRoundedLTPro-Light, DIN Next Rounded LT Pro" font-size="14" font-weight="300" line-spacing="16" fill="#828599">
+                <tspan x="224.331" y="160">2017 / Q4</tspan>
+            </text>
+            <text id="2018-/-Q2" font-family="DINNextRoundedLTPro-Light, DIN Next Rounded LT Pro" font-size="14" font-weight="300" line-spacing="16" fill="#828599">
+                <tspan x="224.331" y="304">2018 / Q2</tspan>
+            </text>
+            <text id="End.bid-網站上線支援-ens-的" font-family="DINNextRoundedLTPro-Regular, DIN Next Rounded LT Pro" font-size="16" font-weight="normal" line-spacing="20" fill="#3F335D">
+                <tspan x="22.608" y="113">End.bid </tspan>
+                <tspan x="78.848" y="113" font-family="PingFangTC-Regular, PingFang TC">網站上線支援</tspan>
+                <tspan x="176" y="113"></tspan>
+                <tspan x="49.152" y="133">ens </tspan>
+                <tspan x="78.848" y="133" font-family="PingFangTC-Regular, PingFang TC">的購買與轉移</tspan>
+            </text>
+            <text id="整合IPFS，去中心網站架站服務上線" font-family="PingFangTC-Regular, PingFang TC" font-size="16" font-weight="normal" line-spacing="20" fill="#3F335D">
+                <tspan x="14.912" y="410">整合</tspan>
+                <tspan x="45.824" y="410" font-family="DINNextRoundedLTPro-Regular, DIN Next Rounded LT Pro">IPFS</tspan>
+                <tspan x="78.848" y="410">，去中心網站</tspan>
+                <tspan x="78.848" y="430">架站服務上線</tspan>
+            </text>
+            <text id="ens拍賣平台上線-履約保證智能合約" font-family="DINNextRoundedLTPro-Regular, DIN Next Rounded LT Pro" font-size="16" font-weight="normal" line-spacing="20" fill="#3F335D">
+                <tspan x="53.024" y="249">ens</tspan>
+                <tspan x="78.848" y="249" font-family="PingFangTC-Regular, PingFang TC">拍賣平台上線</tspan>
+                <tspan x="46.848" y="269" font-family="PingFangTC-Regular, PingFang TC">履約保證智能合約</tspan>
+            </text>
+            <text id="ICO-發售" font-family="DINNextRoundedLTPro-Regular, DIN Next Rounded LT Pro" font-size="16" font-weight="normal" line-spacing="20" fill="#3F335D">
+                <tspan x="224" y="181">ICO </tspan>
+                <tspan x="251.984" y="181" font-family="PingFangTC-Regular, PingFang TC">發售</tspan>
+            </text>
+            <text id="ens-融資智能合約服務上線" font-family="DINNextRoundedLTPro-Regular, DIN Next Rounded LT Pro" font-size="16" font-weight="normal" line-spacing="20" fill="#3F335D">
+                <tspan x="224" y="325">ens </tspan>
+                <tspan x="253.696" y="325" font-family="PingFangTC-Regular, PingFang TC">融資智能合約服務</tspan>
+                <tspan x="225.088" y="345" font-family="PingFangTC-Regular, PingFang TC">上線</tspan>
+            </text>
+            <g id="anchor" transform="translate(184.000000, 87.000000)">
+                <g id="Oval-2">
+                    <use fill="#7100D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#7100D8" x="0" y="3" width="13" height="2"></rect>
+            </g>
+            <g id="anchor" transform="translate(184.000000, 377.000000)">
+                <g id="Oval-2">
+                    <use fill="#7100D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="6" xlink:href="#path-5"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#7100D8" x="0" y="3" width="13" height="2"></rect>
+            </g>
+            <g id="anchor" transform="translate(184.000000, 223.000000)">
+                <g id="Oval-2">
+                    <use fill="#7100D8" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="6" xlink:href="#path-7"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#7100D8" x="0" y="3" width="13" height="2"></rect>
+            </g>
+            <g id="anchor" transform="translate(206.000000, 159.000000) scale(-1, 1) translate(-206.000000, -159.000000) translate(196.000000, 155.000000)">
+                <g id="Oval-2">
+                    <use fill="#7100D8" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-10)" stroke-width="6" xlink:href="#path-9"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#7100D8" x="0" y="3" width="13" height="2"></rect>
+            </g>
+            <g id="anchor" transform="translate(206.000000, 303.000000) scale(-1, 1) translate(-206.000000, -303.000000) translate(196.000000, 299.000000)">
+                <g id="Oval-2">
+                    <use fill="#7100D8" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-12)" stroke-width="6" xlink:href="#path-11"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#7100D8" x="0" y="3" width="13" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
