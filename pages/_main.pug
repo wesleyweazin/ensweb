@@ -5,13 +5,12 @@ section.kv
                 .col-lg-6
                     h1.text-center.text-primary Your identity on Ethereum
                     p.text-center ENS.bid offers a secure and decentralised way to address resources both on and off the blockchain using simple, human-readable names. 
-            .row.justify-content-md-center.my-4
-                .col-lg-6.input-group.input-group-lg.search
-                    input.form-control(type='text', aria-label='Amount (to the nearest dollar)')
-                    //- span.input-group-addon .eth
-            .row.justify-content-center.my-4
-                .my-1
-                    a.btn.btn-primary.btn-md(href='#', role='button') Search
+            .row.justify-content-md-center
+                .col-lg-8
+                    input.search-input(type='text', aria-label='Amount (to the nearest dollar)')
+                    .search
+                    a.search-icon(href='#')
+                        i.fa.fa-fw.fa-search
 
 section.works
     .container
