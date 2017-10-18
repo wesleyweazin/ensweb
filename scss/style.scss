@@ -38,6 +38,11 @@
         background-image: url(../image/kv.jpg);
         position: relative;
     }
+    .search-ens {
+        @media (max-width: 991px) {
+            margin: 0 -2rem;
+        }
+    }
 
     .search {
         position: relative;
@@ -53,6 +58,9 @@
             position: absolute;
             z-index: 99;
             right: 4rem;
+            @media (max-width: 991px) {
+                right: 3.5rem;
+            }
         }
         &:hover {
             box-shadow: 0 3px 8px 0 rgba(63, 51, 93, 0.20), 0 0 0 1px rgba(98, 4, 184, 0.08);
@@ -63,12 +71,11 @@
         position: relative;
         z-index: 99;
         border: 0px;
-        border-radius: 2px !important;
         display: block;
-        width: calc(100% - 72px);
+        width: calc(100% - 78px);
         padding: 0.5rem 0.75rem;
         font-size: 1rem;
-        line-height: 2;
+        line-height: calc(44px - 1rem);
         color: #495057;
         background-color: #fff;
         background-image: none;
@@ -98,6 +105,10 @@
         font-size: 1rem;
         right: 15px;
         top: 0px;
+        @media (max-width: 991px) {
+            right: -1rem;
+            top: 2px;
+        }
         i {
             position: absolute;
             right: 13px;
