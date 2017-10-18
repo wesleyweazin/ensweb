@@ -61,6 +61,7 @@ ul.navbar-nav {
   display: block;
   width: calc(100% - 78px);
   padding: 0.5rem 0.75rem;
+  border-radius: 2px;
   font-size: 1rem;
   line-height: calc(44px - 1rem);
   color: #495057;
