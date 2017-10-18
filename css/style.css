@@ -91,11 +91,10 @@ ul.navbar-nav {
   width: 40px;
   font-size: 1rem;
   right: 15px;
-  top: 0px; }
+  top: 2px; }
   @media (max-width: 991px) {
     .search-icon {
-      right: -1rem;
-      top: 2px; } }
+      right: -1rem; } }
   .search-icon i {
     position: absolute;
     right: 13px;
